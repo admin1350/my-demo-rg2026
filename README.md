@@ -1,5 +1,6 @@
 # my-demo-rg2026
 Настройка dhcp 
+Как настроить dhcp на ecorouter
 ```
 ip pool test 1
 range 192.168.200.2-192.168.200.254
